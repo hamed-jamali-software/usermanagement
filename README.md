@@ -57,7 +57,7 @@
 
 7. **Access the app:**
    - Admin panel: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
-   - User management: [http://127.0.0.1:8000/user/](http://127.0.0.1:8000/user/)
+   - User management: [http://127.0.0.1:8000/user-managment/](http://127.0.0.1:8000/user-managment/)
 
 ### URL Configuration
 
