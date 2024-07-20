@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/usermangment.iml" filepath="$PROJECT_DIR$/.idea/usermangment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/django-usermanagement.iml" filepath="$PROJECT_DIR$/.idea/django-usermanagement.iml" />
     </modules>
   </component>
 </project>

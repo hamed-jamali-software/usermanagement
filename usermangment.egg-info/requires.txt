@@ -1,8 +1,0 @@
-Django>=5.0
-django-bootstrap5
-pillow
-django-cleanup
-django-allauth
-django-htmx
-pyjwt
-cryptography
